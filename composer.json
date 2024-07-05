@@ -1,5 +1,5 @@
 {
-    "name": "datatester/datatester-php-sdk",
+    "name": "fengxinyhyl/datatester-php-sdk",
     "description": "Datatester SDK for PHP",
     "keywords": ["Datatester", "php", "sdk"],
     "type": "library",
