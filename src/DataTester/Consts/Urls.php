@@ -20,14 +20,14 @@ namespace DataTester\Consts;
  */
 class Urls
 {
-    const BASE_URL = 'https://data.bytedance.com';
+    const BASE_URL = 'https://tab.volces.com';
 
     const BASE_URL_I18N = 'https://datarangers.com';
 
     // meta uri
     const META_ENDPOINT = '/abmeta/v2/get_abtest_info/';
 
-    const EVENT_URL = 'https://mcs.ctobsnssdk.com/v2/event/list';
+    const EVENT_URL = 'https://gator.volces.com';
 
     const EVENT_URL_I18N = 'https://mcs.tobsnssdk.com/v2/event/list';
 }
