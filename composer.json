@@ -14,7 +14,7 @@
     },
     "require": {
         "php": ">=7.1",
-        "monolog/monolog": "^1.25",
+        "monolog/monolog": "^1.25 || ^2.0",
         "guzzlehttp/guzzle": "~6.2",
         "composer/semver": "^3.2",
         "lastguest/murmurhash": "^2.0",
