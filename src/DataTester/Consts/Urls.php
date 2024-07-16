@@ -27,7 +27,7 @@ class Urls
     // meta uri
     const META_ENDPOINT = '/abmeta/v2/get_abtest_info/';
 
-    const EVENT_URL = 'https://gator.volces.com';
+    const EVENT_URL = 'https://gator.volces.com/v2/event/list';
 
     const EVENT_URL_I18N = 'https://mcs.tobsnssdk.com/v2/event/list';
 }
